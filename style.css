@@ -70,6 +70,7 @@ input:focus{
   height: 3rem;
   padding: 0.25rem;
   width: 100%;
+  resize: none;
 }
 
 
@@ -124,7 +125,7 @@ footer{
 
 
 
-@media(max-width:300px)
+@media(max-width:350px)
 {
   .main h1
   {
